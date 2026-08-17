@@ -81,6 +81,7 @@ cd precipitate
 | [CURRENT_STATE.md](CURRENT_STATE.md) | 当前任务、指标、警告、校验值和远端状态快照 |
 | [见面语.txt](见面语.txt) | 新窗口接任时可直接复制的提示语 |
 | `assets/` | GitHub 首页使用的脱敏预览资源 |
+| `.gitattributes` | 固定便携文本换行，确保干净克隆后的 HTML SHA-256一致 |
 
 ## 复制到 U 盘或新电脑
 
