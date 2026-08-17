@@ -1,0 +1,1 @@
+请先阅读本文件夹的 AGENTS.md、CODEX_WORKFLOW.md 和 CURRENT_STATE.md，然后继续沉淀：codex://threads/这里替换为任务ID

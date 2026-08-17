@@ -1,0 +1,40 @@
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Temporary and generated working files
+*.tmp
+*.temp
+*.bak
+*.log
+*.zip
+*.7z
+*.tar
+*.gz
+tmp/
+temp/
+.cache/
+
+# Browser/runtime state and local exports
+.runtime/
+browser-profile/
+profiles/
+raw-threads/
+raw-conversations/
+exports/
+
+# Private machine mappings and credentials
+PRIVATE_PATH_MAP.*
+private-path-map.*
+*.secret
+*.key
+*.pem
+.env
+.env.*
+
+# Local Codex metadata is not part of the portable knowledge base
+.codex/
